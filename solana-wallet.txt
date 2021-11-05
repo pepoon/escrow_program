@@ -1,0 +1,16 @@
+BIP39 Passphrase (empty for none):
+
+Wrote new keypair to /home/josep/.config/solana/id.json
+============================================================================
+pubkey: 6QPj8jyCafGJsG48qucDhiFx1bgBbKCYfy3eTorv6nej
+============================================================================
+Save this seed phrase and your BIP39 passphrase to recover your new keypair:
+purity pave inner neglect decline hill faculty usage slight main extend wink
+============================================================================
+
+====================================================================
+Recover the intermediate account's ephemeral keypair file with
+`solana-keygen recover` and the following 12-word seed phrase:
+====================================================================
+mix feed virtual alert meat merit reunion hen crater shoot renew lab
+====================================================================
